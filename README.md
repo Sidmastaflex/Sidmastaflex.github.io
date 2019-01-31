@@ -1,2 +1,2 @@
 # My personal Site
-- siddhanthsharma.org
+- siddhanthsharma.info
